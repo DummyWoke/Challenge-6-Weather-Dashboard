@@ -4,8 +4,6 @@ const apikey = "6fb2b354c822933f6fd35ad30af473fe"
 let order = 1
 
 
-var cityinput = "Philadelphia"
-
 onload = function LoadForecast() {
 
 };
