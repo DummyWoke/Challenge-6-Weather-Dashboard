@@ -14,11 +14,12 @@ N/A
 
 ## Example on how to use Work Day Scheduler.
 
-![Usage](https://user-images.githubusercontent.com/72676314/210702274-e9066cdd-85ff-4411-b3e2-654bd4c794cb.jpg)
+![Usage](https://user-images.githubusercontent.com/72676314/216292445-99ea4546-1b1a-4400-8bd2-3d5a6f398af4.png)
 
+![Demo](https://user-images.githubusercontent.com/72676314/216292668-0b598607-480c-448e-ba21-7d59fbc14629.gif)
 
 ## Preview of site function.
-![Preview](https://user-images.githubusercontent.com/72676314/210702200-6361ad9e-e4f5-4e89-b27c-170ea95b3f0f.gif)
+![Demo](https://user-images.githubusercontent.com/72676314/216292668-0b598607-480c-448e-ba21-7d59fbc14629.gif)
 
 ## Credits
 
