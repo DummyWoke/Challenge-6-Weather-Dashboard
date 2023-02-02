@@ -16,8 +16,6 @@ N/A
 
 ![Usage](https://user-images.githubusercontent.com/72676314/216292445-99ea4546-1b1a-4400-8bd2-3d5a6f398af4.png)
 
-![Demo](https://user-images.githubusercontent.com/72676314/216292668-0b598607-480c-448e-ba21-7d59fbc14629.gif)
-
 ## Preview of site function.
 ![Demo](https://user-images.githubusercontent.com/72676314/216292668-0b598607-480c-448e-ba21-7d59fbc14629.gif)
 
