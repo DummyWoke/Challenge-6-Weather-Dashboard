@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-## Example on how to use Work Day Scheduler.
+## Example on how to use Weather Dashboard.
 
 ![Usage](https://user-images.githubusercontent.com/72676314/216292445-99ea4546-1b1a-4400-8bd2-3d5a6f398af4.png)
 
